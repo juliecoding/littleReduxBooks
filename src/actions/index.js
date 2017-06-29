@@ -15,4 +15,4 @@ export function selectBook(book) {
 //An action creator is just a function that returns an action, 
 //and an action is just an object that flows through all of our different reducers
 //Reducers can then use that action to produce a different value for its particular piece of state.
-//Our goal here is to give our user the ability to clikc on a book and see more information about it.
+//Our goal here is to give our user the ability to click on a book and see more information about it.
